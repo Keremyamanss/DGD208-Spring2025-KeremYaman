@@ -1,0 +1,14 @@
+C:\Users\user\PetSimulator\PetSimulator\obj\Debug\net9.0\PetSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\PetSimulator\PetSimulator\obj\Debug\net9.0\PetSimulator.AssemblyInfoInputs.cache
+C:\Users\user\PetSimulator\PetSimulator\obj\Debug\net9.0\PetSimulator.AssemblyInfo.cs
+C:\Users\user\PetSimulator\PetSimulator\obj\Debug\net9.0\PetSimulator.csproj.CoreCompileInputs.cache
+C:\Users\user\PetSimulator\PetSimulator\bin\Debug\net9.0\PetSimulator.exe
+C:\Users\user\PetSimulator\PetSimulator\bin\Debug\net9.0\PetSimulator.deps.json
+C:\Users\user\PetSimulator\PetSimulator\bin\Debug\net9.0\PetSimulator.runtimeconfig.json
+C:\Users\user\PetSimulator\PetSimulator\bin\Debug\net9.0\PetSimulator.dll
+C:\Users\user\PetSimulator\PetSimulator\bin\Debug\net9.0\PetSimulator.pdb
+C:\Users\user\PetSimulator\PetSimulator\obj\Debug\net9.0\PetSimulator.dll
+C:\Users\user\PetSimulator\PetSimulator\obj\Debug\net9.0\refint\PetSimulator.dll
+C:\Users\user\PetSimulator\PetSimulator\obj\Debug\net9.0\PetSimulator.pdb
+C:\Users\user\PetSimulator\PetSimulator\obj\Debug\net9.0\PetSimulator.genruntimeconfig.cache
+C:\Users\user\PetSimulator\PetSimulator\obj\Debug\net9.0\ref\PetSimulator.dll
