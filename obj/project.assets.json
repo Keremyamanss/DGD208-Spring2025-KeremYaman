@@ -13,11 +13,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\user\\PetSimulator\\Keremyamanss\\PetSimulator.csproj",
       "projectName": "PetSimulator",
       "projectPath": "C:\\Users\\user\\PetSimulator\\Keremyamanss\\PetSimulator.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\user\\PetSimulator\\Keremyamanss\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\user\\OneDrive\\Masaüstü\\DGD208-Spring2025-KeremYaman\\DGD208-Spring2025-KeremYaman.csproj",
+      "projectName": "DGD208-Spring2025-KeremYaman",
+      "projectPath": "C:\\Users\\user\\OneDrive\\Masaüstü\\DGD208-Spring2025-KeremYaman\\DGD208-Spring2025-KeremYaman.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\OneDrive\\Masaüstü\\DGD208-Spring2025-KeremYaman\\obj\\",
+>>>>>>> 1bdd371e28fc196c1da35cdb8db35745d8ec2c6c
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -44,7 +52,11 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
+<<<<<<< HEAD
       "SdkAnalysisLevel": "9.0.300"
+=======
+      "SdkAnalysisLevel": "9.0.200"
+>>>>>>> 1bdd371e28fc196c1da35cdb8db35745d8ec2c6c
     },
     "frameworks": {
       "net9.0": {
@@ -65,7 +77,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+>>>>>>> 1bdd371e28fc196c1da35cdb8db35745d8ec2c6c
       }
     }
   }

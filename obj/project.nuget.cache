@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "F1ww1Yfyoa8=",
   "success": true,
   "projectFilePath": "C:\\Users\\user\\PetSimulator\\Keremyamanss\\PetSimulator.csproj",
+=======
+  "dgSpecHash": "u89r+qBDX80=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\OneDrive\\Masaüstü\\DGD208-Spring2025-KeremYaman\\DGD208-Spring2025-KeremYaman.csproj",
+>>>>>>> 1bdd371e28fc196c1da35cdb8db35745d8ec2c6c
   "expectedPackageFiles": [],
   "logs": []
 }
