@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\PetSimulator\\PetSimulator\\PetSimulator.csproj": {}
+    "C:\\Users\\user\\PetSimulator\\Keremyamanss\\PetSimulator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\PetSimulator\\PetSimulator\\PetSimulator.csproj": {
+    "C:\\Users\\user\\PetSimulator\\Keremyamanss\\PetSimulator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\PetSimulator\\PetSimulator\\PetSimulator.csproj",
+        "projectUniqueName": "C:\\Users\\user\\PetSimulator\\Keremyamanss\\PetSimulator.csproj",
         "projectName": "PetSimulator",
-        "projectPath": "C:\\Users\\user\\PetSimulator\\PetSimulator\\PetSimulator.csproj",
+        "projectPath": "C:\\Users\\user\\PetSimulator\\Keremyamanss\\PetSimulator.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\PetSimulator\\PetSimulator\\obj\\",
+        "outputPath": "C:\\Users\\user\\PetSimulator\\Keremyamanss\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
